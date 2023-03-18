@@ -10,7 +10,7 @@ using System.Text;
 
 namespace lib {
     public class Arrays {
-        public static String ToString(int [] nums) {
+        public static String ToString<T>(T [] nums) {
             StringBuilder ss = new StringBuilder();
             foreach (var num in nums) {
                 ss.Append(num);

@@ -41,6 +41,14 @@
     </ItemGroup>
     <ItemGroup>
         <Compile Include="MainProc.cs" />
+        <Compile Include="P2451.cs" />
+        <Compile Include="P2455.cs" />
+        <Compile Include="P2460.cs" />
+        <Compile Include="P2465.cs" />
+        <Compile Include="P2469.cs" />
+        <Compile Include="P2475.cs" />
+        <Compile Include="P2481.cs" />
+        <Compile Include="P2485.cs" />
         <Compile Include="P2490.cs" />
         <Compile Include="P2496.cs" />
         <Compile Include="P2500.cs" />
