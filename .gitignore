@@ -1,0 +1,5 @@
+/.idea
+/Leetcode/.idea
+/Leetcode/*/obj
+/Leetcode/*/bin
+/Leetcode/*/Properties
