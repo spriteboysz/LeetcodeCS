@@ -40,6 +40,9 @@
         <Reference Include="System.Xml" />
     </ItemGroup>
     <ItemGroup>
+        <Compile Include="P2540.cs" />
+        <Compile Include="P2544.cs" />
+        <Compile Include="P2570.cs" />
         <Compile Include="Program.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />
     </ItemGroup>
