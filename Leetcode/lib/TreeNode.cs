@@ -5,14 +5,17 @@
  * Description:
 */
 
-namespace lib {
-    public class TreeNode {
-        public class Solution {
-            
-        }
+namespace lib;
 
-        public static void Test() {
-            var s = new Solution();
-        }
+// Definition for a binary tree node.
+public class TreeNode {
+    public int val;
+    public TreeNode left;
+    public TreeNode right;
+
+    public TreeNode(int val = 0, TreeNode left = null, TreeNode right = null) {
+        this.val = val;
+        this.left = left;
+        this.right = right;
     }
 }
