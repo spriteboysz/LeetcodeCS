@@ -41,6 +41,13 @@
     </ItemGroup>
     <ItemGroup>
         <Compile Include="MainProc.cs" />
+        <Compile Include="P1967.cs" />
+        <Compile Include="P1974.cs" />
+        <Compile Include="P1979.cs" />
+        <Compile Include="P1984.cs" />
+        <Compile Include="P1991.cs" />
+        <Compile Include="P1995.cs" />
+        <Compile Include="P2000.cs" />
         <Compile Include="P2006.cs" />
         <Compile Include="P2011.cs" />
         <Compile Include="P2016.cs" />
@@ -78,6 +85,9 @@
         <Compile Include="P2185.cs" />
         <Compile Include="P2190.cs" />
         <Compile Include="P2194.cs" />
+        <Compile Include="P2200.cs" />
+        <Compile Include="P2206.cs" />
+        <Compile Include="P2210.cs" />
         <Compile Include="P2215.cs" />
         <Compile Include="P2220.cs" />
         <Compile Include="P2224.cs" />
