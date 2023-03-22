@@ -41,6 +41,8 @@
     </ItemGroup>
     <ItemGroup>
         <Compile Include="MainProc.cs" />
+        <Compile Include="P1957.cs" />
+        <Compile Include="P1961.cs" />
         <Compile Include="P1967.cs" />
         <Compile Include="P1974.cs" />
         <Compile Include="P1979.cs" />
