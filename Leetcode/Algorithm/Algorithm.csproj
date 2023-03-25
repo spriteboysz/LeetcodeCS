@@ -46,6 +46,11 @@
         <Compile Include="P1812.cs" />
         <Compile Include="P1816.cs" />
         <Compile Include="P1822.cs" />
+        <Compile Include="P1827.cs" />
+        <Compile Include="P1832.cs" />
+        <Compile Include="P1837.cs" />
+        <Compile Include="P1844.cs" />
+        <Compile Include="P1848.cs" />
         <Compile Include="P1869.cs" />
         <Compile Include="P1876.cs" />
         <Compile Include="P1880.cs" />
