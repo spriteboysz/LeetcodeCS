@@ -41,6 +41,17 @@
     </ItemGroup>
     <ItemGroup>
         <Compile Include="MainProc.cs" />
+        <Compile Include="P1800.cs" />
+        <Compile Include="P1805.cs" />
+        <Compile Include="P1812.cs" />
+        <Compile Include="P1816.cs" />
+        <Compile Include="P1822.cs" />
+        <Compile Include="P1869.cs" />
+        <Compile Include="P1876.cs" />
+        <Compile Include="P1880.cs" />
+        <Compile Include="P1893.cs" />
+        <Compile Include="P1897.cs" />
+        <Compile Include="P1903.cs" />
         <Compile Include="P1909.cs" />
         <Compile Include="P1913.cs" />
         <Compile Include="P1920.cs" />

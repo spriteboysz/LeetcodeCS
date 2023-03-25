@@ -11,6 +11,10 @@ namespace lib {
     public class MainProc {
         public static void Main() {
             Console.WriteLine("Hello common");
+            int [][] grid = Arrays.To2DArray("[[0,0,0],[0,1,0],[1,1,1]]");
+            foreach (var row in grid) {
+                Console.WriteLine(Arrays.ToString(row));
+            }
         }
     }
 }
