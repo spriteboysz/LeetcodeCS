@@ -55,6 +55,10 @@
         <Compile Include="P1684.cs" />
         <Compile Include="P1688.cs" />
         <Compile Include="P1704.cs" />
+        <Compile Include="P1710.cs" />
+        <Compile Include="P1716.cs" />
+        <Compile Include="P1720.cs" />
+        <Compile Include="P1725.cs" />
         <Compile Include="P1768.cs" />
         <Compile Include="P1773.cs" />
         <Compile Include="P1779.cs" />
