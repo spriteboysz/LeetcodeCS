@@ -41,6 +41,19 @@
     </ItemGroup>
     <ItemGroup>
         <Compile Include="MainProc.cs" />
+        <Compile Include="P1431.cs" />
+        <Compile Include="P1436.cs" />
+        <Compile Include="P1437.cs" />
+        <Compile Include="P1446.cs" />
+        <Compile Include="P1450.cs" />
+        <Compile Include="P1455.cs" />
+        <Compile Include="P1460.cs" />
+        <Compile Include="P1464.cs" />
+        <Compile Include="P1470.cs" />
+        <Compile Include="P1475.cs" />
+        <Compile Include="P1480.cs" />
+        <Compile Include="P1486.cs" />
+        <Compile Include="P1490.cs" />
         <Compile Include="P1619.cs" />
         <Compile Include="P1624.cs" />
         <Compile Include="P1629.cs" />
@@ -59,6 +72,12 @@
         <Compile Include="P1716.cs" />
         <Compile Include="P1720.cs" />
         <Compile Include="P1725.cs" />
+        <Compile Include="P1732.cs" />
+        <Compile Include="P1736.cs" />
+        <Compile Include="P1742.cs" />
+        <Compile Include="P1748.cs" />
+        <Compile Include="P1752.cs" />
+        <Compile Include="P1758.cs" />
         <Compile Include="P1768.cs" />
         <Compile Include="P1773.cs" />
         <Compile Include="P1779.cs" />
