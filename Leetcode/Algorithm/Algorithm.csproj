@@ -54,6 +54,16 @@
         <Compile Include="P1480.cs" />
         <Compile Include="P1486.cs" />
         <Compile Include="P1490.cs" />
+        <Compile Include="P1496.cs" />
+        <Compile Include="P1502.cs" />
+        <Compile Include="P1507.cs" />
+        <Compile Include="P1512.cs" />
+        <Compile Include="P1518.cs" />
+        <Compile Include="P1523.cs" />
+        <Compile Include="P1528.cs" />
+        <Compile Include="P1534.cs" />
+        <Compile Include="P1539.cs" />
+        <Compile Include="P1544.cs" />
         <Compile Include="P1619.cs" />
         <Compile Include="P1624.cs" />
         <Compile Include="P1629.cs" />
