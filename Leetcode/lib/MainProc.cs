@@ -15,6 +15,8 @@ namespace lib {
             foreach (var row in grid) {
                 Console.WriteLine(Arrays.ToString(row));
             }
+            ListNode head = new ListNode("[1,0,1]");
+            Console.WriteLine(head.ToString());
         }
     }
 }
