@@ -41,6 +41,12 @@
     </ItemGroup>
     <ItemGroup>
         <Compile Include="MainProc.cs" />
+        <Compile Include="P1071.cs" />
+        <Compile Include="P1078.cs" />
+        <Compile Include="P1103.cs" />
+        <Compile Include="P1108.cs" />
+        <Compile Include="P1252.cs" />
+        <Compile Include="P1266.cs" />
         <Compile Include="P1281.cs" />
         <Compile Include="P1287.cs" />
         <Compile Include="P1290.cs" />

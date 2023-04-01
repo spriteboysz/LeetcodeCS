@@ -31,11 +31,7 @@ namespace lib {
                 int m = words.Length;
                 int[] row = new int[m];
                 for (int i = 0; i < m; i++) {
-                    int num = 0;
-                    for (int j = 0; j < words[i].Length; j++) {
-                        num = num * 10 + words[i][j] - '0';
-                    }
-                    row[i] = num;
+                    row[i] = Int32.Parse(words[i]);
                 }
                 grid[k] = row;
             }
