@@ -45,6 +45,11 @@
         <Compile Include="P1078.cs" />
         <Compile Include="P1103.cs" />
         <Compile Include="P1108.cs" />
+        <Compile Include="P1128.cs" />
+        <Compile Include="P1137.cs" />
+        <Compile Include="P1154.cs" />
+        <Compile Include="P1160.cs" />
+        <Compile Include="P1175.cs" />
         <Compile Include="P1252.cs" />
         <Compile Include="P1266.cs" />
         <Compile Include="P1281.cs" />
