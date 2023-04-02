@@ -19,8 +19,8 @@ public class ListNode {
         this.next = next;
     }
 
-    public ListNode(string s) {
-        int[] values = s.Substring(1, s.Length - 2).Split(',').Select(int.Parse).ToArray();
+    public ListNode(string data) {
+        int[] values = data.Substring(1, data.Length - 2).Split(',').Select(int.Parse).ToArray();
         int n = values.Length;
         if (n == 0) {
             val = -1;

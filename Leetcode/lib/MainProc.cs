@@ -17,6 +17,8 @@ namespace lib {
             }
             ListNode head = new ListNode("[1,0,1]");
             Console.WriteLine(head.ToString());
+            TreeNode root = new TreeNode("[1,2,3]");
+            Console.WriteLine(root.ToString());
         }
     }
 }

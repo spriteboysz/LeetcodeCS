@@ -54,6 +54,7 @@ public class TreeNode {
         StringBuilder ss = new StringBuilder();
         ss.Append("[");
         Queue<TreeNode> queue = new Queue<TreeNode>();
+        queue.Enqueue(this);
         while (queue.Count > 0) {
             TreeNode node = queue.Dequeue();
             if (node != null && !Equals(node.val.ToString(), "null")) {
