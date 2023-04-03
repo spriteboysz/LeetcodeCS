@@ -49,6 +49,14 @@
         <Compile Include="P0884.cs" />
         <Compile Include="P0888.cs" />
         <Compile Include="P0896.cs" />
+        <Compile Include="P0897.cs" />
+        <Compile Include="P0905.cs" />
+        <Compile Include="P0908.cs" />
+        <Compile Include="P0914.cs" />
+        <Compile Include="P0917.cs" />
+        <Compile Include="P0922.cs" />
+        <Compile Include="P0925.cs" />
+        <Compile Include="P0929.cs" />
         <Compile Include="P0953.cs" />
         <Compile Include="P0961.cs" />
         <Compile Include="P0965.cs" />
