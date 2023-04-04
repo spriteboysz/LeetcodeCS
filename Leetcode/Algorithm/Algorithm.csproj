@@ -49,6 +49,13 @@
         <Compile Include="P0657.cs" />
         <Compile Include="P0661.cs" />
         <Compile Include="P0671.cs" />
+        <Compile Include="P0682.cs" />
+        <Compile Include="P0697.cs" />
+        <Compile Include="P0700.cs" />
+        <Compile Include="P0704.cs" />
+        <Compile Include="P0705.cs" />
+        <Compile Include="P0706.cs" />
+        <Compile Include="P0709.cs" />
         <Compile Include="P0724.cs" />
         <Compile Include="P0728.cs" />
         <Compile Include="P0733.cs" />
