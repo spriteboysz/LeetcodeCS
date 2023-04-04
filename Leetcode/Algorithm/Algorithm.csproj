@@ -57,6 +57,7 @@
         <Compile Include="P0922.cs" />
         <Compile Include="P0925.cs" />
         <Compile Include="P0929.cs" />
+        <Compile Include="P0938.cs" />
         <Compile Include="P0953.cs" />
         <Compile Include="P0961.cs" />
         <Compile Include="P0965.cs" />
