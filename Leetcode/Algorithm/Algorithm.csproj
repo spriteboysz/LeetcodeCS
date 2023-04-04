@@ -41,6 +41,10 @@
     </ItemGroup>
     <ItemGroup>
         <Compile Include="MainProc.cs" />
+        <Compile Include="P0832.cs" />
+        <Compile Include="P0836.cs" />
+        <Compile Include="P0844.cs" />
+        <Compile Include="P0859.cs" />
         <Compile Include="P0860.cs" />
         <Compile Include="P0867.cs" />
         <Compile Include="P0872.cs" />
@@ -58,6 +62,7 @@
         <Compile Include="P0925.cs" />
         <Compile Include="P0929.cs" />
         <Compile Include="P0938.cs" />
+        <Compile Include="P0942.cs" />
         <Compile Include="P0953.cs" />
         <Compile Include="P0961.cs" />
         <Compile Include="P0965.cs" />

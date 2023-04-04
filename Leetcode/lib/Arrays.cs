@@ -6,19 +6,39 @@
 */
 
 using System;
+using System.Collections.Generic;
 using System.Text;
 using System.Text.RegularExpressions;
 
 namespace lib {
     public class Arrays {
-        public static String ToString<T>(T[] nums) {
+        public static string ToString<T>(IEnumerable<T> nums) {
             StringBuilder ss = new StringBuilder();
+            ss.Append("[");
             foreach (var num in nums) {
                 ss.Append(num);
                 ss.Append(",");
             }
-            ss.Remove(ss.Length - 1, 1);
-            return "[" + ss + "]";
+            ss.Append("]");
+            ss.Replace(",]", "]");
+            return ss.ToString();
+        }
+
+        public static string ToString<T>(IEnumerable<T[]> grid) {
+            StringBuilder ss = new StringBuilder();
+            ss.Append("[");
+            foreach (var row in grid) {
+                ss.Append("[");
+                foreach (var num in row) {
+                    ss.Append(num);
+                    ss.Append(",");
+                }
+                ss.Append("]");
+                ss.Append(",");
+            }
+            ss.Append("]");
+            ss.Replace(",]", "]");
+            return ss.ToString();
         }
 
         public static int[][] To2DArray(string s) {
