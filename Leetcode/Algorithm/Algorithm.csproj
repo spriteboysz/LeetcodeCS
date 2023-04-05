@@ -45,6 +45,13 @@
         <Compile Include="P0463.cs" />
         <Compile Include="P0476.cs" />
         <Compile Include="P0482.cs" />
+        <Compile Include="P0485.cs" />
+        <Compile Include="P0492.cs" />
+        <Compile Include="P0495.cs" />
+        <Compile Include="P0496.cs" />
+        <Compile Include="P0500.cs" />
+        <Compile Include="P0501.cs" />
+        <Compile Include="P0504.cs" />
         <Compile Include="P0628.cs" />
         <Compile Include="P0637.cs" />
         <Compile Include="P0643.cs" />
