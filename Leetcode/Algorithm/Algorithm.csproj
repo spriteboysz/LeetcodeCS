@@ -52,6 +52,15 @@
         <Compile Include="P0500.cs" />
         <Compile Include="P0501.cs" />
         <Compile Include="P0504.cs" />
+        <Compile Include="P0506.cs" />
+        <Compile Include="P0507.cs" />
+        <Compile Include="P0509.cs" />
+        <Compile Include="P0520.cs" />
+        <Compile Include="P0521.cs" />
+        <Compile Include="P0530.cs" />
+        <Compile Include="P0541.cs" />
+        <Compile Include="P0543.cs" />
+        <Compile Include="P0551.cs" />
         <Compile Include="P0628.cs" />
         <Compile Include="P0637.cs" />
         <Compile Include="P0643.cs" />
