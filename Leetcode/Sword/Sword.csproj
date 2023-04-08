@@ -40,7 +40,7 @@
         <Reference Include="System.Xml" />
     </ItemGroup>
     <ItemGroup>
-        <Compile Include="MyProc.cs" />
+        <Compile Include="MainProc.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />
         <Compile Include="剑指 Offer 03. 数组中重复的数字.cs" />
         <Compile Include="剑指 Offer 05. 替换空格.cs" />

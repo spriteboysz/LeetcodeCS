@@ -1,5 +1,5 @@
 ﻿namespace Sword {
-    internal class MyProc {
+    internal class MainProc {
         public static void Main(string[] args) {
         }
     }
