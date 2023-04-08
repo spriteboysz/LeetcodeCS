@@ -68,6 +68,14 @@
         <Compile Include="剑指 Offer 54. 二叉搜索树的第k大节点.cs" />
         <Compile Include="剑指 Offer 55 - I. 二叉树的深度.cs" />
         <Compile Include="剑指 Offer 55 - II. 平衡二叉树.cs" />
+        <Compile Include="剑指 Offer 57. 和为s的两个数字.cs" />
+        <Compile Include="剑指 Offer 58 - I. 翻转单词顺序.cs" />
+        <Compile Include="剑指 Offer 58 - II. 左旋转字符串.cs" />
+        <Compile Include="剑指 Offer 65. 不用加减乘除做加法.cs" />
+        <Compile Include="剑指 Offer II 002. 二进制加法.cs" />
+        <Compile Include="剑指 Offer II 003. 前 n 个数字二进制中 1 的个数.cs" />
+        <Compile Include="剑指 Offer II 006. 排序数组中两个数字之和.cs" />
+        <Compile Include="剑指 Offer II 012. 左右两边子数组的和相等.cs" />
         <Compile Include="剑指 Offer II 018. 有效的回文.cs" />
     </ItemGroup>
     <ItemGroup>
