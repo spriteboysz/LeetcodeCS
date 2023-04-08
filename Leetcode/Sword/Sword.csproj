@@ -42,7 +42,21 @@
     <ItemGroup>
         <Compile Include="MyProc.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />
+        <Compile Include="剑指 Offer 03. 数组中重复的数字.cs" />
+        <Compile Include="剑指 Offer 05. 替换空格.cs" />
+        <Compile Include="剑指 Offer 06. 从尾到头打印链表.cs" />
+        <Compile Include="剑指 Offer 10- I. 斐波那契数列.cs" />
+        <Compile Include="剑指 Offer 10- II. 青蛙跳台阶问题.cs" />
+        <Compile Include="剑指 Offer 11. 旋转数组的最小数字.cs" />
+        <Compile Include="剑指 Offer 15. 二进制中1的个数.cs" />
+        <Compile Include="剑指 Offer 17. 打印从1到最大的n位数.cs" />
         <Compile Include="剑指 Offer II 018. 有效的回文.cs" />
+    </ItemGroup>
+    <ItemGroup>
+      <ProjectReference Include="..\lib\lib.csproj">
+        <Project>{f3799c6e-b817-453e-a152-4f29e06a3c91}</Project>
+        <Name>lib</Name>
+      </ProjectReference>
     </ItemGroup>
     <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
     <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
