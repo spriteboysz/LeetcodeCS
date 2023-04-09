@@ -48,6 +48,16 @@
         <Compile Include="面试题 01.04. 回文排列.cs" />
         <Compile Include="面试题 01.06. 字符串压缩.cs" />
         <Compile Include="面试题 01.09. 字符串轮转.cs" />
+        <Compile Include="面试题 02.01. 移除重复节点.cs" />
+        <Compile Include="面试题 02.02. 返回倒数第 k 个节点.cs" />
+        <Compile Include="面试题 02.03. 删除中间节点.cs" />
+        <Compile Include="面试题 02.06. 回文链表.cs" />
+        <Compile Include="面试题 02.07. 链表相交.cs" />
+        <Compile Include="面试题 10.01. 合并排序的数组.cs" />
+        <Compile Include="面试题 10.05. 稀疏数组搜索.cs" />
+        <Compile Include="面试题 16.05. 阶乘尾数.cs" />
+        <Compile Include="面试题 16.07. 最大数值.cs" />
+        <Compile Include="面试题 16.11. 跳水板.cs" />
         <Compile Include="面试题 16.15. 珠玑妙算.cs" />
         <Compile Include="面试题 16.17. 连续数列.cs" />
         <Compile Include="面试题 17.01. 不用加号的加法.cs" />
