@@ -46,6 +46,21 @@
         <Compile Include="面试题 01.02. 判定是否互为字符重排.cs" />
         <Compile Include="面试题 01.03. URL化.cs" />
         <Compile Include="面试题 01.04. 回文排列.cs" />
+        <Compile Include="面试题 01.06. 字符串压缩.cs" />
+        <Compile Include="面试题 01.09. 字符串轮转.cs" />
+        <Compile Include="面试题 16.15. 珠玑妙算.cs" />
+        <Compile Include="面试题 16.17. 连续数列.cs" />
+        <Compile Include="面试题 17.01. 不用加号的加法.cs" />
+        <Compile Include="面试题 17.04. 消失的数字.cs" />
+        <Compile Include="面试题 17.10. 主要元素.cs" />
+        <Compile Include="面试题 17.12. BiNode.cs" />
+        <Compile Include="面试题61. 扑克牌中的顺子.cs" />
+    </ItemGroup>
+    <ItemGroup>
+      <ProjectReference Include="..\lib\lib.csproj">
+        <Project>{f3799c6e-b817-453e-a152-4f29e06a3c91}</Project>
+        <Name>lib</Name>
+      </ProjectReference>
     </ItemGroup>
     <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
     <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
