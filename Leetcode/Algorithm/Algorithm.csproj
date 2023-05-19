@@ -492,8 +492,12 @@
         <Compile Include="P2574.cs" />
         <Compile Include="P2578.cs" />
         <Compile Include="P2582.cs" />
+        <Compile Include="P2583.cs" />
         <Compile Include="P2586.cs" />
         <Compile Include="P2588.cs" />
+        <Compile Include="P2595.cs" />
+        <Compile Include="P2678.cs" />
+        <Compile Include="P2679.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />
     </ItemGroup>
     <ItemGroup>
