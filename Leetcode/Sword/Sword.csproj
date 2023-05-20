@@ -49,6 +49,7 @@
         <Compile Include="剑指 Offer 10- II. 青蛙跳台阶问题.cs" />
         <Compile Include="剑指 Offer 11. 旋转数组的最小数字.cs" />
         <Compile Include="剑指 Offer 15. 二进制中1的个数.cs" />
+        <Compile Include="剑指 Offer 16. 数值的整数次方.cs" />
         <Compile Include="剑指 Offer 17. 打印从1到最大的n位数.cs" />
         <Compile Include="剑指 Offer 18. 删除链表的节点.cs" />
         <Compile Include="剑指 Offer 21. 调整数组顺序使奇数位于偶数前面.cs" />
@@ -57,6 +58,7 @@
         <Compile Include="剑指 Offer 25. 合并两个排序的链表.cs" />
         <Compile Include="剑指 Offer 27. 二叉树的镜像.cs" />
         <Compile Include="剑指 Offer 28. 对称的二叉树.cs" />
+        <Compile Include="剑指 Offer 32 - I. 从上到下打印二叉树.cs" />
         <Compile Include="剑指 Offer 32 - II. 从上到下打印二叉树 II.cs" />
         <Compile Include="剑指 Offer 39. 数组中出现次数超过一半的数字.cs" />
         <Compile Include="剑指 Offer 40. 最小的k个数.cs" />
