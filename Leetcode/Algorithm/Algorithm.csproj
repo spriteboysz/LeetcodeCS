@@ -66,6 +66,7 @@
         <Compile Include="P0108.cs" />
         <Compile Include="P0110.cs" />
         <Compile Include="P0111.cs" />
+        <Compile Include="P0113.cs" />
         <Compile Include="P0118.cs" />
         <Compile Include="P0119.cs" />
         <Compile Include="P0121.cs" />
