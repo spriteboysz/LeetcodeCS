@@ -501,6 +501,10 @@
         <Compile Include="P2609.cs" />
         <Compile Include="P2614.cs" />
         <Compile Include="P2639.cs" />
+        <Compile Include="P2643.cs" />
+        <Compile Include="P2644.cs" />
+        <Compile Include="P2651.cs" />
+        <Compile Include="P2652.cs" />
         <Compile Include="P2678.cs" />
         <Compile Include="P2679.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />
