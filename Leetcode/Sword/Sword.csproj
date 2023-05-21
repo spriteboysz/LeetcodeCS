@@ -63,9 +63,12 @@
         <Compile Include="剑指 Offer 32 - III. 从上到下打印二叉树 III.cs" />
         <Compile Include="剑指 Offer 33. 二叉搜索树的后序遍历序列.cs" />
         <Compile Include="剑指 Offer 34. 二叉树中和为某一值的路径.cs" />
+        <Compile Include="剑指 Offer 38. 字符串的排列.cs" />
         <Compile Include="剑指 Offer 39. 数组中出现次数超过一半的数字.cs" />
         <Compile Include="剑指 Offer 40. 最小的k个数.cs" />
         <Compile Include="剑指 Offer 42. 连续子数组的最大和.cs" />
+        <Compile Include="剑指 Offer 45. 把数组排成最小的数.cs" />
+        <Compile Include="剑指 Offer 47. 礼物的最大价值.cs" />
         <Compile Include="剑指 Offer 50. 第一个只出现一次的字符.cs" />
         <Compile Include="剑指 Offer 52. 两个链表的第一个公共节点.cs" />
         <Compile Include="剑指 Offer 53 - I. 在排序数组中查找数字 I.cs" />
@@ -73,6 +76,9 @@
         <Compile Include="剑指 Offer 54. 二叉搜索树的第k大节点.cs" />
         <Compile Include="剑指 Offer 55 - I. 二叉树的深度.cs" />
         <Compile Include="剑指 Offer 55 - II. 平衡二叉树.cs" />
+        <Compile Include="剑指 Offer 56 - I. 数组中数字出现的次数.cs" />
+        <Compile Include="剑指 Offer 56 - II. 数组中数字出现的次数 II.cs" />
+        <Compile Include="剑指 Offer 57 - II. 和为s的连续正数序列.cs" />
         <Compile Include="剑指 Offer 57. 和为s的两个数字.cs" />
         <Compile Include="剑指 Offer 58 - I. 翻转单词顺序.cs" />
         <Compile Include="剑指 Offer 58 - II. 左旋转字符串.cs" />
