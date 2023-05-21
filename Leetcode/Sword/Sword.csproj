@@ -82,7 +82,12 @@
         <Compile Include="剑指 Offer 57. 和为s的两个数字.cs" />
         <Compile Include="剑指 Offer 58 - I. 翻转单词顺序.cs" />
         <Compile Include="剑指 Offer 58 - II. 左旋转字符串.cs" />
+        <Compile Include="剑指 Offer 61. 扑克牌中的顺子.cs" />
+        <Compile Include="剑指 Offer 62. 圆圈中最后剩下的数字.cs" />
+        <Compile Include="剑指 Offer 63. 股票的最大利润.cs" />
+        <Compile Include="剑指 Offer 64. 求1+2+…+n.cs" />
         <Compile Include="剑指 Offer 65. 不用加减乘除做加法.cs" />
+        <Compile Include="剑指 Offer 66. 构建乘积数组.cs" />
         <Compile Include="剑指 Offer II 002. 二进制加法.cs" />
         <Compile Include="剑指 Offer II 003. 前 n 个数字二进制中 1 的个数.cs" />
         <Compile Include="剑指 Offer II 006. 排序数组中两个数字之和.cs" />
