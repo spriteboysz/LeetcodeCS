@@ -90,8 +90,12 @@
         <Compile Include="剑指 Offer 66. 构建乘积数组.cs" />
         <Compile Include="剑指 Offer II 002. 二进制加法.cs" />
         <Compile Include="剑指 Offer II 003. 前 n 个数字二进制中 1 的个数.cs" />
+        <Compile Include="剑指 Offer II 004. 只出现一次的数字.cs" />
+        <Compile Include="剑指 Offer II 005. 单词长度的最大乘积.cs" />
         <Compile Include="剑指 Offer II 006. 排序数组中两个数字之和.cs" />
+        <Compile Include="剑指 Offer II 007. 数组中和为 0 的三个数.cs" />
         <Compile Include="剑指 Offer II 012. 左右两边子数组的和相等.cs" />
+        <Compile Include="剑指 Offer II 014. 字符串中的变位词.cs" />
         <Compile Include="剑指 Offer II 018. 有效的回文.cs" />
         <Compile Include="剑指 Offer II 019. 最多删除一个字符得到回文.cs" />
         <Compile Include="剑指 Offer II 023. 两个链表的第一个重合节点.cs" />
