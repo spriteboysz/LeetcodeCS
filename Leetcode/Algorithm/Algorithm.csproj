@@ -121,6 +121,7 @@
         <Compile Include="P0414.cs" />
         <Compile Include="P0415.cs" />
         <Compile Include="P0434.cs" />
+        <Compile Include="P0438.cs" />
         <Compile Include="P0441.cs" />
         <Compile Include="P0448.cs" />
         <Compile Include="P0459.cs" />
@@ -148,6 +149,7 @@
         <Compile Include="P0559.cs" />
         <Compile Include="P0561.cs" />
         <Compile Include="P0566.cs" />
+        <Compile Include="P0567.cs" />
         <Compile Include="P0575.cs" />
         <Compile Include="P0589.cs" />
         <Compile Include="P0590.cs" />
