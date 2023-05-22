@@ -99,10 +99,16 @@
         <Compile Include="剑指 Offer II 015. 字符串中的所有变位词.cs" />
         <Compile Include="剑指 Offer II 018. 有效的回文.cs" />
         <Compile Include="剑指 Offer II 019. 最多删除一个字符得到回文.cs" />
+        <Compile Include="剑指 Offer II 021. 删除链表的倒数第 n 个结点.cs" />
+        <Compile Include="剑指 Offer II 022. 链表中环的入口节点.cs" />
         <Compile Include="剑指 Offer II 023. 两个链表的第一个重合节点.cs" />
         <Compile Include="剑指 Offer II 024. 反转链表.cs" />
+        <Compile Include="剑指 Offer II 025. 链表中的两数相加.cs" />
+        <Compile Include="剑指 Offer II 026. 重排链表.cs" />
         <Compile Include="剑指 Offer II 027. 回文链表.cs" />
+        <Compile Include="剑指 Offer II 029. 排序的循环链表.cs" />
         <Compile Include="剑指 Offer II 032. 有效的变位词.cs" />
+        <Compile Include="剑指 Offer II 033. 变位词组.cs" />
         <Compile Include="剑指 Offer II 034. 外星语言是否排序.cs" />
         <Compile Include="剑指 Offer II 041. 滑动窗口的平均值.cs" />
         <Compile Include="剑指 Offer II 052. 展平二叉搜索树.cs" />
