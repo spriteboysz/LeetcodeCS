@@ -110,6 +110,7 @@
         <Compile Include="剑指 Offer II 032. 有效的变位词.cs" />
         <Compile Include="剑指 Offer II 033. 变位词组.cs" />
         <Compile Include="剑指 Offer II 034. 外星语言是否排序.cs" />
+        <Compile Include="剑指 Offer II 035. 最小时间差.cs" />
         <Compile Include="剑指 Offer II 041. 滑动窗口的平均值.cs" />
         <Compile Include="剑指 Offer II 052. 展平二叉搜索树.cs" />
         <Compile Include="剑指 Offer II 056. 二叉搜索树中两个节点之和.cs" />
