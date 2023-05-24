@@ -79,6 +79,7 @@
         <Compile Include="P0143.cs" />
         <Compile Include="P0144.cs" />
         <Compile Include="P0145.cs" />
+        <Compile Include="P0150.cs" />
         <Compile Include="P0160.cs" />
         <Compile Include="P0168.cs" />
         <Compile Include="P0169.cs" />
