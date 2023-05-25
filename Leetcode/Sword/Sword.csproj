@@ -114,6 +114,12 @@
         <Compile Include="剑指 Offer II 036. 后缀表达式.cs" />
         <Compile Include="剑指 Offer II 037. 小行星碰撞.cs" />
         <Compile Include="剑指 Offer II 041. 滑动窗口的平均值.cs" />
+        <Compile Include="剑指 Offer II 042. 最近请求次数.cs" />
+        <Compile Include="剑指 Offer II 044. 二叉树每层的最大值.cs" />
+        <Compile Include="剑指 Offer II 045. 二叉树最底层最左边的值.cs" />
+        <Compile Include="剑指 Offer II 046. 二叉树的右侧视图.cs" />
+        <Compile Include="剑指 Offer II 047. 二叉树剪枝.cs" />
+        <Compile Include="剑指 Offer II 048. 序列化与反序列化二叉树.cs" />
         <Compile Include="剑指 Offer II 052. 展平二叉搜索树.cs" />
         <Compile Include="剑指 Offer II 056. 二叉搜索树中两个节点之和.cs" />
         <Compile Include="剑指 Offer II 068. 查找插入位置.cs" />
