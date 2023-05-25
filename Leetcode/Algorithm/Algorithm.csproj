@@ -72,7 +72,9 @@
         <Compile Include="P0118.cs" />
         <Compile Include="P0119.cs" />
         <Compile Include="P0121.cs" />
+        <Compile Include="P0124.cs" />
         <Compile Include="P0125.cs" />
+        <Compile Include="P0129.cs" />
         <Compile Include="P0136.cs" />
         <Compile Include="P0141.cs" />
         <Compile Include="P0142.cs" />
@@ -128,6 +130,7 @@
         <Compile Include="P0414.cs" />
         <Compile Include="P0415.cs" />
         <Compile Include="P0434.cs" />
+        <Compile Include="P0437.cs" />
         <Compile Include="P0438.cs" />
         <Compile Include="P0441.cs" />
         <Compile Include="P0445.cs" />
@@ -152,6 +155,7 @@
         <Compile Include="P0520.cs" />
         <Compile Include="P0521.cs" />
         <Compile Include="P0530.cs" />
+        <Compile Include="P0538.cs" />
         <Compile Include="P0541.cs" />
         <Compile Include="P0543.cs" />
         <Compile Include="P0551.cs" />
@@ -244,6 +248,7 @@
         <Compile Include="P1025.cs" />
         <Compile Include="P1030.cs" />
         <Compile Include="P1037.cs" />
+        <Compile Include="P1038.cs" />
         <Compile Include="P1046.cs" />
         <Compile Include="P1047.cs" />
         <Compile Include="P1051.cs" />
@@ -527,7 +532,6 @@
         <Compile Include="P2678.cs" />
         <Compile Include="P2679.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />
-        <Compile Include="剑指 Offer II 049. 从根节点到叶节点的路径数字之和.cs" />
     </ItemGroup>
     <ItemGroup>
       <ProjectReference Include="..\lib\lib.csproj">
