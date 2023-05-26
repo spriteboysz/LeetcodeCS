@@ -126,7 +126,9 @@
         <Compile Include="剑指 Offer II 052. 展平二叉搜索树.cs" />
         <Compile Include="剑指 Offer II 053. 二叉搜索树中的中序后继.cs" />
         <Compile Include="剑指 Offer II 054. 所有大于等于节点的值之和.cs" />
+        <Compile Include="剑指 Offer II 055. 二叉搜索树迭代器.cs" />
         <Compile Include="剑指 Offer II 056. 二叉搜索树中两个节点之和.cs" />
+        <Compile Include="剑指 Offer II 057. 值和下标之差都在给定的范围内.cs" />
         <Compile Include="剑指 Offer II 068. 查找插入位置.cs" />
         <Compile Include="剑指 Offer II 072. 求平方根.cs" />
         <Compile Include="剑指 Offer II 075. 数组相对排序.cs" />
