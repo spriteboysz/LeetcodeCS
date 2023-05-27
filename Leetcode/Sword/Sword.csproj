@@ -131,6 +131,8 @@
         <Compile Include="剑指 Offer II 056. 二叉搜索树中两个节点之和.cs" />
         <Compile Include="剑指 Offer II 057. 值和下标之差都在给定的范围内.cs" />
         <Compile Include="剑指 Offer II 060. 出现频率最高的 k 个数字.cs" />
+        <Compile Include="剑指 Offer II 063. 替换单词.cs" />
+        <Compile Include="剑指 Offer II 064. 神奇的字典.cs" />
         <Compile Include="剑指 Offer II 068. 查找插入位置.cs" />
         <Compile Include="剑指 Offer II 072. 求平方根.cs" />
         <Compile Include="剑指 Offer II 075. 数组相对排序.cs" />
