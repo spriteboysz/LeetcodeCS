@@ -12,7 +12,7 @@ namespace Algorithm;
 public class P0518 {
     public class Solution {
         private int[] pref;
-        private int total = 0;
+        private int total;
         private Random random;
 
         public Solution(int[] w) {
