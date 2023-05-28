@@ -146,6 +146,7 @@
         <Compile Include="剑指 Offer II 076. 数组中的第 k 大的数字.cs" />
         <Compile Include="剑指 Offer II 077. 链表排序.cs" />
         <Compile Include="剑指 Offer II 078. 合并排序链表.cs" />
+        <Compile Include="剑指 Offer II 079. 所有子集.cs" />
         <Compile Include="剑指 Offer II 088. 爬楼梯的最少成本.cs" />
     </ItemGroup>
     <ItemGroup>
