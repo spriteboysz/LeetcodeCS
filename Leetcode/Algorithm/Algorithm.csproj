@@ -156,10 +156,12 @@
         <Compile Include="P0509.cs" />
         <Compile Include="P0513.cs" />
         <Compile Include="P0515.cs" />
+        <Compile Include="P0518.cs" />
         <Compile Include="P0520.cs" />
         <Compile Include="P0521.cs" />
         <Compile Include="P0530.cs" />
         <Compile Include="P0538.cs" />
+        <Compile Include="P0540.cs" />
         <Compile Include="P0541.cs" />
         <Compile Include="P0543.cs" />
         <Compile Include="P0551.cs" />
@@ -220,6 +222,7 @@
         <Compile Include="P0832.cs" />
         <Compile Include="P0836.cs" />
         <Compile Include="P0844.cs" />
+        <Compile Include="P0852.cs" />
         <Compile Include="P0859.cs" />
         <Compile Include="P0860.cs" />
         <Compile Include="P0867.cs" />
