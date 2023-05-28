@@ -133,9 +133,13 @@
         <Compile Include="剑指 Offer II 060. 出现频率最高的 k 个数字.cs" />
         <Compile Include="剑指 Offer II 063. 替换单词.cs" />
         <Compile Include="剑指 Offer II 064. 神奇的字典.cs" />
+        <Compile Include="剑指 Offer II 065. 最短的单词编码.cs" />
+        <Compile Include="剑指 Offer II 066. 单词之和.cs" />
         <Compile Include="剑指 Offer II 068. 查找插入位置.cs" />
         <Compile Include="剑指 Offer II 072. 求平方根.cs" />
         <Compile Include="剑指 Offer II 075. 数组相对排序.cs" />
+        <Compile Include="剑指 Offer II 076. 数组中的第 k 大的数字.cs" />
+        <Compile Include="剑指 Offer II 077. 链表排序.cs" />
         <Compile Include="剑指 Offer II 088. 爬楼梯的最少成本.cs" />
     </ItemGroup>
     <ItemGroup>
