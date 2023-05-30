@@ -48,6 +48,7 @@
         <Compile Include="P0019.cs" />
         <Compile Include="P0020.cs" />
         <Compile Include="P0021.cs" />
+        <Compile Include="P0022.cs" />
         <Compile Include="P0023.cs" />
         <Compile Include="P0026.cs" />
         <Compile Include="P0027.cs" />
@@ -83,6 +84,7 @@
         <Compile Include="P0124.cs" />
         <Compile Include="P0125.cs" />
         <Compile Include="P0129.cs" />
+        <Compile Include="P0131.cs" />
         <Compile Include="P0136.cs" />
         <Compile Include="P0141.cs" />
         <Compile Include="P0142.cs" />
@@ -552,6 +554,7 @@
         <Compile Include="P2678.cs" />
         <Compile Include="P2679.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />
+        <Compile Include="剑指 Offer II 086. 分割回文子字符串.cs" />
     </ItemGroup>
     <ItemGroup>
       <ProjectReference Include="..\lib\lib.csproj">
