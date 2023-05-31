@@ -47,10 +47,14 @@
         <Compile Include="面试题 01.03. URL化.cs" />
         <Compile Include="面试题 01.04. 回文排列.cs" />
         <Compile Include="面试题 01.06. 字符串压缩.cs" />
+        <Compile Include="面试题 01.07. 旋转矩阵.cs" />
+        <Compile Include="面试题 01.08. 零矩阵.cs" />
         <Compile Include="面试题 01.09. 字符串轮转.cs" />
         <Compile Include="面试题 02.01. 移除重复节点.cs" />
         <Compile Include="面试题 02.02. 返回倒数第 k 个节点.cs" />
         <Compile Include="面试题 02.03. 删除中间节点.cs" />
+        <Compile Include="面试题 02.04. 分割链表.cs" />
+        <Compile Include="面试题 02.05. 链表求和.cs" />
         <Compile Include="面试题 02.06. 回文链表.cs" />
         <Compile Include="面试题 02.07. 链表相交.cs" />
         <Compile Include="面试题 03.01. 三合一.cs" />
