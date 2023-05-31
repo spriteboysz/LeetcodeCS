@@ -10,7 +10,7 @@ using System.Collections.Generic;
 using System.Linq;
 using lib;
 
-namespace Algorithm;
+namespace Sword;
 
 public class 剑指_Offer_II_086__分割回文子字符串 {
     public class Solution {
