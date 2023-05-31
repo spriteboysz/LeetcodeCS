@@ -57,6 +57,7 @@
         <Compile Include="面试题 02.05. 链表求和.cs" />
         <Compile Include="面试题 02.06. 回文链表.cs" />
         <Compile Include="面试题 02.07. 链表相交.cs" />
+        <Compile Include="面试题 02.08. 环路检测.cs" />
         <Compile Include="面试题 03.01. 三合一.cs" />
         <Compile Include="面试题 04.02. 最小高度树.cs" />
         <Compile Include="面试题 04.04. 检查平衡性.cs" />

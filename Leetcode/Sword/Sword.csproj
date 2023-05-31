@@ -158,6 +158,9 @@
         <Compile Include="剑指 Offer II 088. 爬楼梯的最少成本.cs" />
         <Compile Include="剑指 Offer II 089. 房屋偷盗.cs" />
         <Compile Include="剑指 Offer II 090. 环形房屋偷盗.cs" />
+        <Compile Include="剑指 Offer II 098. 路径的数目.cs" />
+        <Compile Include="剑指 Offer II 099. 最小路径之和.cs" />
+        <Compile Include="剑指 Offer II 100. 三角形中最小路径之和.cs" />
     </ItemGroup>
     <ItemGroup>
       <ProjectReference Include="..\lib\lib.csproj">
