@@ -74,6 +74,7 @@
         <Compile Include="P0073.cs" />
         <Compile Include="P0077.cs" />
         <Compile Include="P0078.cs" />
+        <Compile Include="P0082.cs" />
         <Compile Include="P0083.cs" />
         <Compile Include="P0086.cs" />
         <Compile Include="P0088.cs" />
