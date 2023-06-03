@@ -91,6 +91,7 @@
         <Compile Include="P0111.cs" />
         <Compile Include="P0113.cs" />
         <Compile Include="P0114.cs" />
+        <Compile Include="P0116.cs" />
         <Compile Include="P0118.cs" />
         <Compile Include="P0119.cs" />
         <Compile Include="P0120.cs" />
@@ -487,6 +488,7 @@
         <Compile Include="P2169.cs" />
         <Compile Include="P2176.cs" />
         <Compile Include="P2180.cs" />
+        <Compile Include="P2181.cs" />
         <Compile Include="P2185.cs" />
         <Compile Include="P2190.cs" />
         <Compile Include="P2194.cs" />
