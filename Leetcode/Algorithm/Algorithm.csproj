@@ -133,10 +133,14 @@
         <Compile Include="P0215.cs" />
         <Compile Include="P0217.cs" />
         <Compile Include="P0219.cs" />
+        <Compile Include="P0222.cs" />
         <Compile Include="P0226.cs" />
         <Compile Include="P0228.cs" />
+        <Compile Include="P0230.cs" />
         <Compile Include="P0231.cs" />
         <Compile Include="P0234.cs" />
+        <Compile Include="P0235.cs" />
+        <Compile Include="P0236.cs" />
         <Compile Include="P0237.cs" />
         <Compile Include="P0242.cs" />
         <Compile Include="P0258.cs" />
@@ -330,6 +334,7 @@
         <Compile Include="P1290.cs" />
         <Compile Include="P1295.cs" />
         <Compile Include="P1299.cs" />
+        <Compile Include="P1302.cs" />
         <Compile Include="P1304.cs" />
         <Compile Include="P1309.cs" />
         <Compile Include="P1313.cs" />
