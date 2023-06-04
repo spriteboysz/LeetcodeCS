@@ -82,10 +82,15 @@
         <Compile Include="P0092.cs" />
         <Compile Include="P0093.cs" />
         <Compile Include="P0094.cs" />
+        <Compile Include="P0095.cs" />
+        <Compile Include="P0096.cs" />
+        <Compile Include="P0098.cs" />
         <Compile Include="P0100.cs" />
         <Compile Include="P0101.cs" />
         <Compile Include="P0102.cs" />
+        <Compile Include="P0103.cs" />
         <Compile Include="P0104.cs" />
+        <Compile Include="P0107.cs" />
         <Compile Include="P0108.cs" />
         <Compile Include="P0109.cs" />
         <Compile Include="P0110.cs" />
