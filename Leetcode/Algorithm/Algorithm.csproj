@@ -226,6 +226,7 @@
         <Compile Include="P0645.cs" />
         <Compile Include="P0648.cs" />
         <Compile Include="P0653.cs" />
+        <Compile Include="P0654.cs" />
         <Compile Include="P0657.cs" />
         <Compile Include="P0661.cs" />
         <Compile Include="P0667.cs" />
@@ -292,6 +293,7 @@
         <Compile Include="P0942.cs" />
         <Compile Include="P0951.cs" />
         <Compile Include="P0953.cs" />
+        <Compile Include="P0958.cs" />
         <Compile Include="P0961.cs" />
         <Compile Include="P0965.cs" />
         <Compile Include="P0976.cs" />
@@ -403,6 +405,7 @@
         <Compile Include="P1598.cs" />
         <Compile Include="P1603.cs" />
         <Compile Include="P1608.cs" />
+        <Compile Include="P1609.cs" />
         <Compile Include="P1614.cs" />
         <Compile Include="P1619.cs" />
         <Compile Include="P1624.cs" />
@@ -530,6 +533,7 @@
         <Compile Include="P2255.cs" />
         <Compile Include="P2259.cs" />
         <Compile Include="P2264.cs" />
+        <Compile Include="P2265.cs" />
         <Compile Include="P2269.cs" />
         <Compile Include="P2273.cs" />
         <Compile Include="P2278.cs" />
