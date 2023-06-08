@@ -339,6 +339,7 @@
         <Compile Include="P1261.cs" />
         <Compile Include="P1266.cs" />
         <Compile Include="P1281.cs" />
+        <Compile Include="P1282.cs" />
         <Compile Include="P1287.cs" />
         <Compile Include="P1290.cs" />
         <Compile Include="P1295.cs" />
@@ -414,6 +415,7 @@
         <Compile Include="P1624.cs" />
         <Compile Include="P1629.cs" />
         <Compile Include="P1636.cs" />
+        <Compile Include="P1637.cs" />
         <Compile Include="P1640.cs" />
         <Compile Include="P1646.cs" />
         <Compile Include="P1652.cs" />
@@ -552,6 +554,7 @@
         <Compile Include="P2315.cs" />
         <Compile Include="P2319.cs" />
         <Compile Include="P2325.cs" />
+        <Compile Include="P2331.cs" />
         <Compile Include="P2335.cs" />
         <Compile Include="P2341.cs" />
         <Compile Include="P2347.cs" />
@@ -567,6 +570,7 @@
         <Compile Include="P2415.cs" />
         <Compile Include="P2418.cs" />
         <Compile Include="P2423.cs" />
+        <Compile Include="P2433.cs" />
         <Compile Include="P2446.cs" />
         <Compile Include="P2427.cs" />
         <Compile Include="P2432.cs" />
@@ -615,9 +619,11 @@
         <Compile Include="P2651.cs" />
         <Compile Include="P2652.cs" />
         <Compile Include="P2656.cs" />
+        <Compile Include="P2657.cs" />
         <Compile Include="P2660.cs" />
         <Compile Include="P2678.cs" />
         <Compile Include="P2679.cs" />
+        <Compile Include="P2710.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />
     </ItemGroup>
     <ItemGroup>
