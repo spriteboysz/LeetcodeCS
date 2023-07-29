@@ -1,7 +1,7 @@
 ﻿/*
  * Author: Deean
  * Date: 2023-03-25 22:33:10
- * FileName: P1970.cs
+ * FileName: P1790.cs
  * Description:
 */
 
@@ -10,7 +10,7 @@ using System.Collections.Generic;
 
 namespace Algorithm; 
 
-public class P1970 {
+public class P1790 {
     public class Solution {
         public bool AreAlmostEqual(string s1, string s2) {
             int n = s1.Length;
