@@ -387,7 +387,6 @@
         <Compile Include="P1476.cs" />
         <Compile Include="P1480.cs" />
         <Compile Include="P1486.cs" />
-        <Compile Include="P1490.cs" />
         <Compile Include="P1496.cs" />
         <Compile Include="P1502.cs" />
         <Compile Include="P1507.cs" />
@@ -627,6 +626,12 @@
         <Compile Include="P2678.cs" />
         <Compile Include="P2679.cs" />
         <Compile Include="P2710.cs" />
+        <Compile Include="P2784.cs" />
+        <Compile Include="P2788.cs" />
+        <Compile Include="P2798.cs" />
+        <Compile Include="P2806.cs" />
+        <Compile Include="P2810.cs" />
+        <Compile Include="P2815.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />
     </ItemGroup>
     <ItemGroup>

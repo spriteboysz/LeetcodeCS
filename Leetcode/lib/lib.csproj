@@ -43,7 +43,6 @@
         <Compile Include="Arrays.cs" />
         <Compile Include="ListNode.cs" />
         <Compile Include="MainProc.cs" />
-        <Compile Include="PriorityQueue.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />
         <Compile Include="TreeNode.cs" />
     </ItemGroup>
