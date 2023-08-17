@@ -626,6 +626,12 @@
         <Compile Include="P2678.cs" />
         <Compile Include="P2679.cs" />
         <Compile Include="P2710.cs" />
+        <Compile Include="P2729.cs" />
+        <Compile Include="P2733.cs" />
+        <Compile Include="P2739.cs" />
+        <Compile Include="P2748.cs" />
+        <Compile Include="P2769.cs" />
+        <Compile Include="P2778.cs" />
         <Compile Include="P2784.cs" />
         <Compile Include="P2788.cs" />
         <Compile Include="P2798.cs" />
