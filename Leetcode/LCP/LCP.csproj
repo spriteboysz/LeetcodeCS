@@ -12,7 +12,7 @@
         <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
         <FileAlignment>512</FileAlignment>
         <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
-        <LangVersion>11</LangVersion>
+    <LangVersion>10</LangVersion>
     </PropertyGroup>
     <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
         <PlatformTarget>AnyCPU</PlatformTarget>
@@ -41,6 +41,24 @@
     </ItemGroup>
     <ItemGroup>
         <Compile Include="LCP0067.cs" />
+        <Compile Include="LCR0002.cs" />
+        <Compile Include="LCR0003.cs" />
+        <Compile Include="LCR0004.cs" />
+        <Compile Include="LCR0005.cs" />
+        <Compile Include="LCR0006.cs" />
+        <Compile Include="LCR0012.cs" />
+        <Compile Include="LCR0014.cs" />
+        <Compile Include="LCR0015.cs" />
+        <Compile Include="LCR0018.cs" />
+        <Compile Include="LCR0019.cs" />
+        <Compile Include="LCR0021.cs" />
+        <Compile Include="LCR0022.cs" />
+        <Compile Include="LCR0023.cs" />
+        <Compile Include="LCR0024.cs" />
+        <Compile Include="LCR0025.cs" />
+        <Compile Include="LCR0026.cs" />
+        <Compile Include="LCR0027.cs" />
+        <Compile Include="LCR0032.cs" />
         <Compile Include="MainProc.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />
     </ItemGroup>
