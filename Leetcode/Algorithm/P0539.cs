@@ -3,7 +3,7 @@
  * Date: 2023-05-23 23:01:07
  * FileName: P0593.cs
  * Description:
-*/
+ */
 
 using System;
 using System.Collections.Generic;
@@ -11,7 +11,7 @@ using System.Linq;
 
 namespace Algorithm;
 
-public class P0593 {
+public class P0539 {
     public class Solution {
         public int FindMinDifference(IList<string> timePoints) {
             timePoints = timePoints.OrderBy(x => x).ToList();
