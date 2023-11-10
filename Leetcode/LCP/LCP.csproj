@@ -89,6 +89,11 @@
         <Compile Include="LCR0085.cs" />
         <Compile Include="LCR0086.cs" />
         <Compile Include="LCR0087.cs" />
+        <Compile Include="LCR0088.cs" />
+        <Compile Include="LCR0089.cs" />
+        <Compile Include="LCR0090.cs" />
+        <Compile Include="LCR0098.cs" />
+        <Compile Include="LCR0099.cs" />
         <Compile Include="MainProc.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />
     </ItemGroup>
