@@ -98,6 +98,8 @@
         <Compile Include="LCR0120.cs" />
         <Compile Include="LCR0122.cs" />
         <Compile Include="LCR0123.cs" />
+        <Compile Include="LCR0127.cs" />
+        <Compile Include="LCR0128.cs" />
         <Compile Include="MainProc.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />
     </ItemGroup>
