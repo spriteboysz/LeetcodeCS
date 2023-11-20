@@ -100,6 +100,10 @@
         <Compile Include="LCR0123.cs" />
         <Compile Include="LCR0127.cs" />
         <Compile Include="LCR0128.cs" />
+        <Compile Include="LCR0133.cs" />
+        <Compile Include="LCR0134.cs" />
+        <Compile Include="LCR0135.cs" />
+        <Compile Include="LCR0136.cs" />
         <Compile Include="MainProc.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />
     </ItemGroup>
