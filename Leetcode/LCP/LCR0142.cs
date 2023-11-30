@@ -1,7 +1,7 @@
 ﻿/*
  * Author: Deean
  * Date: 2023-11-24 22:22:53
- * FileName: P0142.cs
+ * FileName: LCR0142.cs
  * Description: LCR 142. 训练计划 IV
  */
 
@@ -10,7 +10,7 @@ using lib;
 
 namespace LCP;
 
-public class P0142 {
+public class LCR0142 {
     public class Solution {
         public ListNode TrainningPlan(ListNode l1, ListNode l2) {
             if (l1 == null) return l2;
