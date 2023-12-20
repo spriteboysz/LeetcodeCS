@@ -130,6 +130,9 @@
         <Compile Include="LCR0176.cs" />
         <Compile Include="LCR0177.cs" />
         <Compile Include="LCR0178.cs" />
+        <Compile Include="LCR0179.cs" />
+        <Compile Include="LCR0180.cs" />
+        <Compile Include="LCR0181.cs" />
         <Compile Include="MainProc.cs" />
         <Compile Include="LCR0142.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />
