@@ -135,6 +135,7 @@
         <Compile Include="LCR0181.cs" />
         <Compile Include="LCR0182.cs" />
         <Compile Include="LCR0186.cs" />
+        <Compile Include="LCR0187.cs" />
         <Compile Include="MainProc.cs" />
         <Compile Include="LCR0142.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />
